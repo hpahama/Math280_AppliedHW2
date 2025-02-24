@@ -1,7 +1,7 @@
 # Applied Homework Assignment 2: 
 (Markov Chains and Predictive Text)
 
-## Problem 3
+## Problem 4
 
 ### Step 1:
 
@@ -9,6 +9,7 @@
 from collections import Counter
 import re
 
+# 100 Words
 text = """ACT I assure you; for shining now perchance you will go. Peaseblossom! Cobweb! Moth! and critical, Not Hermia should think, we come to fear, hast stolen away; they can: I will hear me, strike me. I frown upon my heart at every mother's son. BOTTOM I get out better than I: I have the badge of night. BOTTOM We are longer stay. Exit  The wren with fair Hermia? be my Titania; wake you, to Pyramus: I understand not trust to see thy questions; let love to your hearts! LYSANDER Away, you are but to utter sweet summer buds Was"""
 
 # Clean text: remove punctuation and convert to lowercase
